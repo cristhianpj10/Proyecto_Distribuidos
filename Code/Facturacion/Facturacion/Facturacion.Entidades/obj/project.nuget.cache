@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNYTKOWHTJOMQl6wqCZ9m+Wra8o0A4TTc2/zp7a4x6JrXxtbkWn8ZZvUniBzylmpGpRASpgXIthOk0ylTrKFLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TONY\\Documents\\GIT\\Repositorios\\Middleware-master\\Code\\Facturacion\\Facturacion\\Facturacion.Entidades\\Facturacion.Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TONY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TONY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
